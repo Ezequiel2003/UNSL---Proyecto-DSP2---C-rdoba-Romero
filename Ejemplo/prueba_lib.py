@@ -4,7 +4,7 @@ from RC_lib import encontrar_bordes
 #Funciona tanto para imagenes en color como en escala de gris
 imagen_original=cv2.imread("imagen4.jpg",1)
 
-imagen_original2=cv2.imread("imagen5.JPG",1)
+imagen_original2=cv2.imread("imagen5.JPG",0)
 
 
 imagen_final,bordes=encontrar_bordes(imagen_original,"binv","ext","rm",5)
