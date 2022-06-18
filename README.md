@@ -2,6 +2,6 @@
 Proyecto basado en la detección de bordes de imágenes
 
 Para instalar la librería: 
-1) Ir a https://pypi.org/project/encontrar-bordes/0.0.7/ y copiar con Copy to clipboard "pip install encontrar-bordes==0.0.6", para evitar errores
+1) Ir a https://pypi.org/project/encontrar-bordes/0.0.7/ y copiar con Copy to clipboard "pip install encontrar-bordes==0.0.7", para evitar errores
 2) Abrir "Anaconda prompt(anaconda3)", luego pegar e instalar
 3) Listo
